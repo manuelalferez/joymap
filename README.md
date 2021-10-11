@@ -9,15 +9,16 @@
   <p align="center">
     Search for events near you or post them yourself
     <br />
-    <a href="https://github.com/manuelalferez/joymap/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://joymap-documentation.vercel.app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/manuelalferez/joymap">View Demo</a>
+    <a href="https://joymap.vercel.app/">View Website</a>
     ·
     <a href="https://github.com/manuelalferez/joymap/issues">Report Bug</a>
     ·
     <a href="https://github.com/manuelalferez/joymap/issues">Request Feature</a>
   </p>
+
 
 
 
